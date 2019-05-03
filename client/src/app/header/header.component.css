@@ -1,14 +1,8 @@
-/* BOBBY'S CSS */
 /* Typeface for header navigation text: */
 
-/* NOTE: All styling for this app has been adapted from the color scheme
-   found at the following address:
-   https://www.shutterstock.com/blog/10-gorgeous-color-schemes-for-websites?kw=&gclid=Cj0KCQjwhuvlBRCeARIsAM720HqsEDVV95kYL-IwrpDKqMGJK3GZ67W65QTk8Mc3fIkVLPG-HDqNtLIaAoP9EALw_wcB&gclsrc=aw.ds
-*/
+/* @import url('https://fonts.googleapis.com/css?family=Alegreya+Sans:400,500,500i,700,700i'); */
 
-@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans:400,500,500i,700,700i');
-
-header  {
+/* header  {
   font-family: 'Alegreya Sans', 'MS Trebuchet', sans-serif;
 }
 
@@ -18,24 +12,24 @@ header  {
   letter-spacing: 1.5px;
   word-spacing: 2px;
   padding-left: 35px;
-  color: #fffafa;   /* Snow */
+  color: #fffafa;
   text-decoration: none;
 }
 
 .header-background  {
-  background-color: #934a5f;
+  background-color: #4a5593;
 }
 
 header nav a  {
   display: inline-block;
-  color: #f5f5f5;   /* White Smoke */
+  color: #f5f5f5;
 }
 
 .navLink  {
   font-family: 'Alegreya Sans', 'MS Trebuchet', sans-serif;
   font-size: 1.25rem;
   font-weight: 500;
-  color: #f5f5f5;   /* White Smoke */
+  color: #f5f5f5;
   margin-right: 15px;
   text-decoration: none;
   cursor: pointer;
@@ -43,7 +37,7 @@ header nav a  {
 
 .navLink:hover  {
   color: #934a5f !important;
-  background-color: #f5f5f5;  /* White Smoke */
+  background-color: #f5f5f5;
   padding: 1px 12px;
   border-radius: 10px;
   transition: all ease-in-out 0.75s;
@@ -61,4 +55,4 @@ header nav a  {
 .navLink#logOut,
 .navLink#register  {
   margin-right: 0;
-}
+} */

@@ -1,55 +1,53 @@
-/* Private styling for login.component.html */
+/* Private styling for login.component.html
 
 /* Typeface for headings */
 
-@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans:400,500,500i,700,700i');
+/* @import url('https://fonts.googleapis.com/css?family=Alegreya+Sans:400,500,500i,700,700i'); */
 
 /* Typeface for body text,  etc. */
 
-@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:500,600,600i,700,700i&subset=latin-ext');
+/* @import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:500,600,600i,700,700i&subset=latin-ext'); */
 
-h1  {
+/* h1  {
   font-family:  'Alegreya Sans', 'MS Trebuchet', sans-serif;
   font-size: 2.5rem;
   font-weight:  700;
   letter-spacing: 0.85px;
   word-spacing:  2px;
-  color: #fffafa;       /* Snow */
-  text-shadow: 2px  3px  5px #c2b4d6;
-}
+  color: #3a3838;
+} */
 
-.signIn   {
+/* .signIn   {
   margin-top: 25px;
   margin-bottom: 25px;
-  width: 750px;
-  border: 3px inset #f5f5f5;    /* White Smoke */
+  width: 100%;
+  border: 3px inset #f5f5f5;
   padding: 25px 35px;
   border-radius: 12px;
-  box-shadow: 2px 3px 4px #e5e5e5;
-}
+} */
 
-label  {
+/* label  {
   font-family: 'Alegreya Sans',  'MS Trebuchet', sans-serif;
   font-size: 1.4rem;
   font-weight: 600;
   margin-bottom: 0;
   text-align: right;
-  color: #fffafa;     /* Snow */
-}
+  color: #3a3838;
+} */
 
-input  {
+/* input  {
   display: block;
   margin-bottom: 12px;
   background-color: #e9deff;
   padding: 2px 12px;
   border-radius: 12px;
-  font-family: 'Cormorant Garamond', Palatino, serif;
+  font-family: 'Alegreya Sans',  'MS Trebuchet', sans-serif;
   font-size: 1.35rem;
   font-weight: 600;
-  color: #934a5f;
-}
+  color: #3a3838;
+} */
 
-button  {
+/* button  {
   margin-top: 15px;
   width: 110px;
   background-color: #e9deff;
@@ -57,38 +55,38 @@ button  {
   font-family: 'Alegreya Sans', 'MS Trebuchet', sans-serif;
   font-size: 18px;
   font-weight: 700;
-  border: 3px outset #c0c0c0; /* Silver */
+  border: 3px outset #c0c0c0;
   border-radius: 12px;
   outline: none;
   padding: 2px 15px;
-}
+} */
 
-button:hover  {
+/* button:hover  {
   background-color: #934a5f;
   color:  #e9deff;
   transition: all ease-in-out 0.75s;
-}
+} */
 
-button:active  {
-  color: #fffafa; /* Snow */
-  border: 3.5px inset #c0c0c0; /* Silver */
+/* button:active  {
+  color: #fffafa;
+  border: 3.5px inset #c0c0c0;
   transition: all ease-in 0.5s;
-}
+} */
 
-h4  {
+/* h4  {
   font-family: 'Alegreya Sans', 'MS Trebuchet', sans-serif;
   font-size: 1.5rem;
   font-weight: 500;
-  color: #fffafa;   /* Snow  */
-}
+  color: #3a3838;   Snow
+} */
 
-.registerLink   {
-  color: #a9a9a9;
+/* .registerLink   {
+  color: #28305a;
   font-size: 1.65rem;
   font-variant: small-caps;
   text-decoration: none;
-}
+} */
 
-.registerLink:hover  {
+/* .registerLink:hover  {
   text-decoration: underline;
-}
+} */
