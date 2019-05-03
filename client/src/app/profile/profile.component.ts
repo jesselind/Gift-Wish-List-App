@@ -2,6 +2,8 @@ import { Component, OnInit } from "@angular/core";
 
 import { UserService } from "../user.service";
 import { User } from "../user";
+import { GiftService } from '../gift.service';
+import { Gift } from '../gift';
 
 @Component({
   selector: "app-profile",
